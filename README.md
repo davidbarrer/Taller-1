@@ -1,3 +1,3 @@
 # Taller-1
 
-Ejercicios del 1 al 13 con pruebas unitarias.
+Ejercicios completos del 1 al 13 con pruebas unitarias.
